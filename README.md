@@ -1,5 +1,10 @@
 ## hi ... talk to me okay 
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=SPHINTUS-CARMEN&color=351a43&style=plastic&label=🐍&abbreviated=true)
+
+<div align="left">
 
 LOOK AT MY CAT !! 
 
